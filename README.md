@@ -42,7 +42,7 @@ xlrd==1.1.0
 
 功能2：情侣热搜事
 
-！[热搜](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/22.jpg)
+![热搜](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/22.jpg)
 
 热搜榜上爬取下来的数据，有些可能不能完全显示，忘记做超过限制长度就用...来省略。
 
