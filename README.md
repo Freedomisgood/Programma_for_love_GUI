@@ -59,7 +59,7 @@ xlrd==1.1.0
 
 功能1：聊天日常分享
 
-![日常](Programma_for_love_GUI/readme/9.jpg)
+![日常](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/9.jpg)
 
 按下打开按钮选择聊天记录（.txt）（主要设计的就是导入情侣间的QQ聊天日常，平时的话很少会这样记录吧），导入后会对聊天记录进行分析，如果[图片]出现的次数大于文字行的数量，则会显示"两位斗图鬼才用表情包征服了彼此！",反之会弹出“情话绵绵，爱情已融入生活中的点滴！”。然后会出现聊天时间的分析表，分析两人最频繁的聊天时间段。如果选择不导入QQ聊天记录而是其他文本，则不会弹出分析表，但还是会有‘文字’和‘图片’次数的分析。
 
@@ -67,7 +67,7 @@ xlrd==1.1.0
 
 !!!....至于菜单栏中的‘登录’和上传按钮，由于云服务器502的问题，展示聊天记录的网站出错，就没有再继续写这两个的功能
 
-![10](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/10.jpg)
+![登录](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/10.jpg)
 
 ---
 
