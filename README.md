@@ -96,19 +96,19 @@ xlrd==1.1.0
 
 （图四）
 
-![5](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/5.jpg)
+![未响应](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/5.jpg)
 
 功能2：纪念日设置
 （图一）
 
-![6](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/6.jpg)
+![日历1](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/6.jpg)
 
 首次界面为图一，点击日历上日期再按下设置按钮即可设置成功，但也可以设置在今天之后，算个BUG（若在今天之后，设为无效忘记写了）。
 还有个小问题是，设置后图二的“在一起已经x天啦”需要再次启动才可见（其实可以在按下设置后，读取下'date.json',emmm，反正现在忘记做了）
 最近的节假日，节假日有哪些都是我在程序内设置好的，忘记要加生日了。
 在一起的时间好像是负数？貌似是now-date写反了，写成date-now了。
 
-![ri](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/ri.jpg)
+![日历2](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/ri.jpg)
 
 功能5：求生欲训练
 （图一）
