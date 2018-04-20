@@ -73,7 +73,7 @@ xlrd==1.1.0
 
 功能3：微信发送每日问候（可定时）
 
-![微信定时发送](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/1.jpg)
+![微信定时发送]( https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/1.jpg )
 
 可选择发送金山词霸提供的中英文每日一句，也可以选择发送自定义语句
 
@@ -139,5 +139,7 @@ xlrd==1.1.0
 界面有点简陋。可能天生没有艺术天赋吧23333.....
 
 库有点多，就没有打包成.exe二进制文件。
+
 ---
+
 ### 运行环境：在windows下开发，可以运行，linux未试。
