@@ -41,6 +41,7 @@ xlrd==1.1.0
 ​	嗯，没错，加载界面就是软研群里专门用来膜拜的图。由于写了个简单的爬虫，在界面加载时就会立刻爬取百度、微博、搜狗、以及情侣故事网中的故事（以免热搜的条目不够，避免因为self.label.getText()报错），所以会耗时比较久，因此做了个加载界面。
 
 功能2：情侣热搜事
+
 ![热搜]((https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/22.jpg)
 
 热搜榜上爬取下来的数据，有些可能不能完全显示，忘记做超过限制长度就用...来省略。
@@ -48,6 +49,7 @@ xlrd==1.1.0
 ▲.如果没有联网打开这个程序，会抛出异常，无法运行
 
 功能1：聊天日常分享
+
 ![日常](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/9.jpg)
 
 按下打开按钮选择聊天记录（.txt）（主要设计的就是导入情侣间的QQ聊天日常，平时的话很少会这样记录吧），导入后会对聊天记录进行分析，如果[图片]出现的次数大于文字行的数量，则会显示"两位斗图鬼才用表情包征服了彼此！",反之会弹出“情话绵绵，爱情已融入生活中的点滴！”。然后会出现聊天时间的分析表，分析两人最频繁的聊天时间段。如果选择不导入QQ聊天记录而是其他文本，则不会弹出分析表，但还是会有‘文字’和‘图片’次数的分析。
@@ -59,6 +61,7 @@ xlrd==1.1.0
 ![10](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/10.jpg)
 
 功能3：微信发送每日问候（可定时）
+
 ![微信定时发送](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/1.jpg)
 
 可选择发送金山词霸提供的中英文每日一句，也可以选择发送自定义语句
@@ -104,6 +107,7 @@ xlrd==1.1.0
 还有个小问题是，设置后图二的“在一起已经x天啦”需要再次启动才可见（其实可以在按下设置后，读取下'date.json',emmm，反正现在忘记做了）
 最近的节假日，节假日有哪些都是我在程序内设置好的，忘记要加生日了。
 在一起的时间好像是负数？貌似是now-date写反了，写成date-now了。
+
 ![ri](https://github.com/Freedomisgood/Programma_for_love_GUI/tree/master/readme/ri.jpg)
 
 功能5：求生欲训练
