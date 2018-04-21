@@ -26,6 +26,11 @@ urllib3==1.22
 xlrd==1.1.0
 ```
 
+
+开发环境为:python3.6
+安装依赖库: pip3 install -r requirements.txt
+运行文件: python main.py(请在装完库的情况下，同时若在虚拟环境下安装的库，请进入虚拟环境再运行)
+
 ---
 
 功能介绍：
